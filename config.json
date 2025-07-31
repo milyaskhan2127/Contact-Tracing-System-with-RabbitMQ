@@ -1,0 +1,8 @@
+{
+    "rabbitmq_host": "localhost",
+    "activemq_host": "localhost",
+    "board_size": 10,
+    "update_interval": 100,
+    "max_history": 100,
+    "log_level": "INFO"
+}
